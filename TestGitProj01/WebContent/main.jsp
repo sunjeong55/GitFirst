@@ -13,10 +13,6 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 </head>
 <body>
-<ul>
-	<li>Git첫번째항목</li>
-	<li>두번째항목</li>
-	<li>Git첫번째항목</li>
-</ul>
+	<h2>나는 Main화면</h2>
 </body>
 </html>
