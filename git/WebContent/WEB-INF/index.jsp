@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h2>index쪽</h2>
+<h2>index쪽룰루랄랄</h2>
 </body>
 </html>
