@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
+
 <h2>index커밋1</h2>
+
 </body>
 </html>
