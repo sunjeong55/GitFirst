@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h2>index커밋</h2>#
+<h2>index커밋커밋</h2>#
 </body>
 </html>
