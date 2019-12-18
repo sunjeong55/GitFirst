@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<h2>index커밋1</h2>
+<h2>index커밋2</h2>
 
 </body>
 </html>
